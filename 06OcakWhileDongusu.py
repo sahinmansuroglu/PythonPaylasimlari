@@ -1,4 +1,4 @@
-# While döngüsü  while komutunun yanında parantez içindeki lart doğru olduğu sürece
+# While döngüsü  while komutunun yanında parantez içindeki Şart doğru olduğu sürece
 # Altındaki bloğu sürekli çalışıtır.
 # Aşağıdaki uygulamada i=1 olarak verilmiştir ve while ile i<=10 olduğu sürece while döngüsüne
 # bağlı blok çalıştırılarak blok içinde i'nin değeri 1 arttırılarak ekrana 1'den 10 kadar olan sayılar yazdırılmıştır.
