@@ -11,7 +11,7 @@ def faktoriyel(sayi):
 for i in range(1,11):
     print(f"{i}!={faktoriyel(i)}")
 
-
+# Programın Çıktısı Aşağıdadır.
 # 1!=1
 # 2!=2
 # 3!=6
